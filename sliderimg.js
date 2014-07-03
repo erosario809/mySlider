@@ -13,7 +13,7 @@ $(document).ready(function(){
        	$("#links").mouseleave(linkout);
        	
       
-       	
+       	//you can find enterpage function in the pagelinks.js file
        	$("#links").click(enterpage);
        	
 });
